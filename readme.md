@@ -63,7 +63,9 @@ Inspired by the magical world of Hogwarts, The OwlPost delivers a lightweight, t
 
 ## Screenshots
 
-*Add your application screenshots to a **`Screenshots/`** folder and link them here.*
+Below are some screenshots of the application. Place your screenshots in the `Screenshots/` folder and include them as follows:
+
+&#x20; &#x20;
 
 ## Getting Started
 
@@ -117,8 +119,9 @@ TheOwlPost/
 
 ## Contributors
 
-- **OnlyOnlyAndOnlySaklain**\
-  [GitHub](https://github.com/SaklainTheSpellbinder)
+
+- [Saklain](https://github.com/SaklainTheSpellbinder)
+- [Rakib]([https://github.com/Rakib1958])
 
 ## License
 
