@@ -63,9 +63,11 @@ Inspired by the magical world of Hogwarts, The OwlPost delivers a lightweight, t
 
 ## Screenshots
 
-Below are some screenshots of the application. Place your screenshots in the `Screenshots/` folder and include them as follows:
+Below are some screenshots of the application.
+![Intro](Screenshots/OwlPost.mp4)
+![Login Page](Screenshots/login.png)
+![Chat Interface](Screenshots/chat.png)
 
-&#x20; &#x20;
 
 ## Getting Started
 
