@@ -121,7 +121,7 @@ TheOwlPost/
 
 
 - [Saklain](https://github.com/SaklainTheSpellbinder)
-- [Rakib]([https://github.com/Rakib1958])
+- [Rakib](https://github.com/Rakib1958)
 
 ## License
 
