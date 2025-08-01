@@ -7,6 +7,7 @@ The OwlPost is a JavaFX-powered messaging application with a fun Harry Potter th
 - [Overview](#overview)
 - [Features](#features)
 - [Screenshots](#screenshots)
+- [Videos / Demos](#videos--demos)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Contributors](#contributors)
@@ -64,13 +65,17 @@ Inspired by the magical world of Hogwarts, The OwlPost delivers a lightweight, t
 ## Screenshots
 
 Below are some screenshots of the application.
+
+![Login Page](Screenshots/login.png)
+![Chat Interface](Screenshots/chat.png)
+
+## Videos / Demos
+```html
 <video width="600" controls>
   <source src="Screenshots/OwlPost.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-![Login Page](Screenshots/login.png)
-![Chat Interface](Screenshots/chat.png)
-
+```
 
 ## Getting Started
 
@@ -123,7 +128,6 @@ TheOwlPost/
 ```
 
 ## Contributors
-
 
 - [Saklain](https://github.com/SaklainTheSpellbinder)
 - [Rakib](https://github.com/Rakib1958)
