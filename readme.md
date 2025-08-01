@@ -64,7 +64,10 @@ Inspired by the magical world of Hogwarts, The OwlPost delivers a lightweight, t
 ## Screenshots
 
 Below are some screenshots of the application.
-![Intro](Screenshots/OwlPost.mp4)
+<video width="600" controls>
+  <source src="Screenshots/OwlPost.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ![Login Page](Screenshots/login.png)
 ![Chat Interface](Screenshots/chat.png)
 
