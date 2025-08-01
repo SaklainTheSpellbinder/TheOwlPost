@@ -108,7 +108,7 @@ TheOwlPost/
 │       └── resources/        # FXML layouts, CSS, audio assets
 │
 ├── target/                   # Compiled artifacts
-├── apikey.txt                # Your custom API key
+├── apikey.txt                # Gemini API key
 ├── assemblyaiAPI.txt         # AssemblyAI API key
 ├── owlpost.db                # SQLite database file
 ├── recording.wav             # Sample audio for testing
